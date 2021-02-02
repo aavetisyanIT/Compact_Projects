@@ -6,7 +6,7 @@ Basic JavaScript drum kit playing audio and animating button pressed.
 
 HTML5, CSS3, JavaScript
 
-![]()
+![](https://github.com/aavetisyanIT/Compact_Projects/blob/main/Drum_Kit/git_image.PNG)
 
 ## Acknowledgments
 
